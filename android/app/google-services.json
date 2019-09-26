@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "127689828411",
+    "firebase_url": "https://seventeen-2dcbd.firebaseio.com",
+    "project_id": "seventeen-2dcbd",
+    "storage_bucket": "seventeen-2dcbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127689828411:android:7a834fb1e31d74b312141e",
+        "android_client_info": {
+          "package_name": "com.example.seventheen_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127689828411-kvlcteedtneqfmvnp1l85c0picnegtld.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.seventheen_app",
+            "certificate_hash": "121cc02af2ebca476ee70a8dea6c39f818d7658b"
+          }
+        },
+        {
+          "client_id": "127689828411-iepeo1tfocq4ihdtvookfic19pilr8vo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT0i7LeG1sbzCS6QOquK8KBGScoOVmxJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127689828411-iepeo1tfocq4ihdtvookfic19pilr8vo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
